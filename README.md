@@ -10,6 +10,4 @@
 
 
 ## 2、如下图 点击按钮切换不同的子控制器 更有利于模块解耦
-
- <img src="https://github.com/1019459067/ChildViewControllerDem/raw/master/screenshots/2019-12-13_15-04-14.jpg" width=360 height=640 />
-
+![](screenshots/2019-12-13_15-04-14.jpg)
